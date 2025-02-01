@@ -9,7 +9,6 @@ Welcome to **WheelDeal**, a cutting-edge Car Management System that seamlessly h
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
-- [Achievements](#achievements)
 - [Project Structure](#project-structure)
 - [Setup & Installation](#setup--installation)
 - [Screenshots](#screenshots)
